@@ -1,0 +1,8 @@
+*.v2z
+*.89y
+*.89z
+*.9xz
+*.a
+*.o
+starters/lzma/LzmaDecode.s
+*.dbg
